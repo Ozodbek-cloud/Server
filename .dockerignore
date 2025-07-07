@@ -1,0 +1,28 @@
+# Node modules
+node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build artifacts
+dist
+.cache
+coverage
+
+# OS & editor files
+.DS_Store
+.env
+.env.*
+*.swp
+*.swo
+
+# Git
+.git
+.gitignore
+
+# Docker compose overrides
+docker-compose.override.yml
